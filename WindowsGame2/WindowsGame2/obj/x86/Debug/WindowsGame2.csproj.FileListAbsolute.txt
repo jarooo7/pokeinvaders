@@ -1,0 +1,281 @@
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raketa.xnb
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.wma
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a1 (1).xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a1 (2).xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a1 (3).xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a1 (4).xnb
+C:\Users\ja\Documents\Visual Studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.wma
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\aaaaaa.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\aaaaaa.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida2.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.wma
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\aaaaaa.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida2.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło.wma
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło1.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\muzykaTło1.wma
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fdfdf.xnb
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pyl.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\aaaaaa.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida2.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\a.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fdfdf.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pyl.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\lisc.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\piorun.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ogen.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\woda.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dpiorun.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dlisc.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dogen.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dwoda.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.wma
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dstrzal.xnb
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gameover.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida2.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pyl.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\lisc.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\piorun.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ogen.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\woda.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dpiorun.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dlisc.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dogen.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dwoda.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dstrzal.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gameover.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.wma
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\baner.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\squirtle.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\enter.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spacja.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\strzalka1.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\strzalka2.xnb
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Logo.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pokeball.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tło.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\raket.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bulb.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pikachu.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\baner.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pause.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gover.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\winer.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida1.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\asteroida2.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\chal.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\squirtle.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\pyl.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\lisc.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\piorun.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ogen.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\woda.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\enter.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spacja.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\strzalka1.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\strzalka2.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Logo.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Tekst.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dpiorun.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dlisc.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dogen.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dwoda.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dstrzal.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Gameover.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mtlo.wma
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\font1.xnb
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\font2.xnb

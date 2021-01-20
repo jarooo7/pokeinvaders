@@ -1,0 +1,7 @@
+c:\users\ja\documents\visual studio 2015\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+D:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+F:\ostatni\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+D:\aaa\ostatni\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+D:\aaa\bbbb\ostatni\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+D:\aaa\naprawde koniec\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+D:\aaa\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
